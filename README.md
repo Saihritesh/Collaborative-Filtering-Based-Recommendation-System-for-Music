@@ -9,7 +9,7 @@ While listening to music it's normal to want to find a similar song that you are
 These features don't usually have anything to do with the actual music that is being listened to by the user. So the aim of this small project is to recommend similar songs to the song the user is currently listening to.
 
 ## The AIM :
-###In this project I hope to create a system which works on Content-Based-Filtering which will recommend 5 similar songs in the same genre to the current song the user is listenig to.
+### In this project I hope to create a system which works on Content-Based-Filtering which will recommend 5 similar songs in the same genre to the current song the user is listenig to.
 📂 [Download GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
 
 
