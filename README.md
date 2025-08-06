@@ -45,6 +45,8 @@ It contains **10,000 audio tracks** across **10 different genres**.
 ---
 
 ## 📊 Example Output
+<img width="661" height="161" alt="image" src="https://github.com/user-attachments/assets/c973d809-775e-4cac-95a0-a05e83c80906" />
+This is just the songs that have been pulled from the CSV , will add the actual functionality to play the songs from the folders shortly.
 
 
 
