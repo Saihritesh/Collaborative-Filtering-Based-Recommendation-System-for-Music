@@ -5,4 +5,9 @@ While listening to music it's normal to want to find a similar song that you are
 * Item IDs
 * Ratings or implicit feedback
 * Enough overlapping user history
+
 These features don't usually have anything to do with the actual music that is being listened to by the user. So the aim of this small project is to recommend similar songs to the song the user is currently listening to. We use cosine similarity here to find similar songs from the genre that the user is currently listening to and then we use **K- Means** Clustering to identify the closest 5 songs which we can recommend to the user.
+
+📂 [Download GTZAN Dataset](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)
+
+
